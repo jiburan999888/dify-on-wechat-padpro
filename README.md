@@ -193,8 +193,6 @@ dify-on-wechat-padpro/
 - **[dify-on-wechat-ipad](https://github.com/AnCool-OvO/dify-on-wechat-ipad)**: 原版项目基础
 - **[xxxbot-pad](https://github.com/NanSsye/xxxbot-pad)**: iPad协议接入参考
 
-由于本人不会代码，此项目全由ai写作不好的地方欢迎提交Pull Request或Issue来帮助改进本项目！
-
 ---
 
 **免责声明**：本项目仅供学习和研究使用，请勿用于商业或违法用途。使用本项目产生的任何后果由用户自行承担。
